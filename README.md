@@ -12,7 +12,7 @@
 #### 🔥🔥🔥 News
 
 
-- **2024-06-09:** This repo is released (Private).
+- **2025-01-22:** This repo is released (Private).
 
 ---
 
@@ -68,10 +68,10 @@ Used training and testing sets can be downloaded as follows:
 
 | Datasets       |                                                              Content | Link |
 |:---------------|---------------------------------------------------------------------:|:----:|
-| ETHZ Food-101  | ETHZ Food-101 contains 101 categories with a total of 101,000 images |      |
-| Vireo Food-172 |         Vireo Food-172 consists of 172 categories with 67,288 images |      |
-| UEC Food-256   |              UEC Food-256 includes 256 categories with 31,395 images |      |
-| SuShi-50       |                    SuShi-50 contains 50 categories with 3,963 images |      |
+| ETHZ Food-101  | ETHZ Food-101 contains 101 categories with a total of 101,000 images | [baidu](https://pan.baidu.com/s/132hvhtorICv9j6o5ZErhgg?pwd=sa6w)     |
+| Vireo Food-172 |         Vireo Food-172 consists of 172 categories with 67,288 images | [baidu](https://pan.baidu.com/s/1_9ya6xa9xQhL5HhtVIgO1g?pwd=e2mu)     |
+| UEC Food-256   |              UEC Food-256 includes 256 categories with 31,395 images | [baidu](https://pan.baidu.com/s/1UXSBxPGTwTvFAiDJK3Cf5A?pwd=wcge)     |
+| SuShi-50       |                    SuShi-50 contains 50 categories with 3,963 images |  [baidu](https://pan.baidu.com/s/1Er4_8_exnB0GMZvOm_7t5A?pwd=jknv)    |
 
 Download training and testing datasets and put them into the corresponding folders of `datasets/`.
 
