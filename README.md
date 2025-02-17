@@ -4,6 +4,11 @@
 
 # Fraesormer: Learning Adaptive Sparse Transformer for Efficient Food Recognition
 
+[![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)]()
+[![supplement](https://img.shields.io/badge/Supplementary-Material-B85252)]()
+[![project](https://img.shields.io/badge/project-page-brightgreen)](https://zs1314.github.io/Fraesormer/)
+
+
 #### 🔥🔥🔥 News
 
 
