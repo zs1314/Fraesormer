@@ -274,7 +274,12 @@ We achieve state-of-the-art performance. Detailed results can be found in the pa
 If you find the code helpful in your research or work, please cite the following paper(s).
 
 ```
-
+@article{zou2025fraesormer,
+  title={Fraesormer: Learning Adaptive Sparse Transformer for Efficient Food Recognition},
+  author={Zou, Shun and Zou, Yi and Zhang, Mingya and Luo, Shipeng and Chen, Zhihao and Gao, Guangwei},
+  journal={ICME},
+  year={2025}
+}
 ```
 
 
